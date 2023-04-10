@@ -13,3 +13,10 @@ ctrl + alt + 숫자 2 -> 풀기(한꺼번에 풀링)
 
 ### 🍮z-index
 ![image](https://user-images.githubusercontent.com/129017041/230842252-7c9259d0-2cc9-4059-b01a-3131ece29a45.png)
+
+##개체 선택하기
+
+-개체선택후 shlft + 다른개체선택 ==> 개체 2가지 이상 선택
+
+
+-개체 선택후 shlft + 개체다시선택 ==> 선택 풀림
