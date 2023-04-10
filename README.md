@@ -1,4 +1,4 @@
-<이모티콘>(https://emojipedia.org/custard/)
+{이모티콘}(https://emojipedia.org/custard/)
 
 
 일러스트 기본세팅
